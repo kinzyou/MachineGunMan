@@ -2,7 +2,7 @@
 
 ## ファイル構成  
 * [Unityデータ](./machineGunMan/)   
-* [ビルドデータ](./[Executable]([https://drive.google.com/drive/folders/15WNPJpTWd_k7dO7EWJEe1wVMWJuA0mK8](https://drive.google.com/drive/folders/15WNPJpTWd_k7dO7EWJEe1wVMWJuA0mK8))/)  
+* [ビルドデータ](./[Executable](https://drive.google.com/drive/folders/15WNPJpTWd_k7dO7EWJEe1wVMWJuA0mK8)/)  
 
 ## 概要  
 
