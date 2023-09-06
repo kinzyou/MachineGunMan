@@ -15,7 +15,7 @@
   
 ## 担当ブログラムファイル  
 * [自分の書いたコード](./machineGunMan/Assets/Natuki/Script/)
-* [プレイヤーの基本的な動き](./machineGunMan/Natuki/Script/PlayerController.cs/)
+* [プレイヤーの基本的な動き](./machineGunMan/Assets/Natuki/Script/PlayerController.cs/)
 
 ## ゲームストーリー  
 ロボットに支配されてしまったこの世界。
