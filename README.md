@@ -14,7 +14,7 @@
 * [Windowsビルドデータ](/[Executable/roborisuran_Windows](https://drive.google.com/drive/folders/1yDc2mysAl2BVCf-24vkHChOjrX3fpXra)https://drive.google.com/drive/folders/1yDc2mysAl2BVCf-24vkHChOjrX3fpXra/)
   
 ## 担当ブログラムファイル  
-* [自分の書いたコード](./machineGunMan/Natuki/Script/)
+* [自分の書いたコード](./machineGunMan/Asset/Natuki/Script/)
 * [プレイヤーの基本的な動き](./machineGunMan/Natuki/Script/PlayerController.cs/)
 
 ## ゲームストーリー  
