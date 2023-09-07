@@ -2,7 +2,7 @@
 
 ## ファイル構成  
 * [Unityデータ](./machineGunMan/)   
-* [ビルドデータ](./[Executable](https://drive.google.com/drive/folders/15WNPJpTWd_k7dO7EWJEe1wVMWJuA0mK8)/)  
+* [ビルドデータ](./https://drive.google.com/drive/folders/15WNPJpTWd_k7dO7EWJEe1wVMWJuA0mK8/)  
 
 ## 概要  
 
@@ -14,8 +14,8 @@
 * [Windowsビルドデータ](/[Executable/roborisuran_Windows](https://drive.google.com/drive/folders/1yDc2mysAl2BVCf-24vkHChOjrX3fpXra)https://drive.google.com/drive/folders/1yDc2mysAl2BVCf-24vkHChOjrX3fpXra/)
   
 ## 担当ブログラムファイル  
-* [自分の書いたコード](./machineGunMan/Natuki/Script/)
-* [プレイヤーの基本的な動き](./machineGunMan/Natuki/Script/PlayerController.cs/)
+* [自分の書いたコード](./machineGunMan/Assets/Natuki/Script/)
+* [プレイヤーの基本的な動き](./machineGunMan/Assets/Natuki/Script/PlayerController.cs/)
 
 ## ゲームストーリー  
 ロボットに支配されてしまったこの世界。
@@ -33,7 +33,3 @@
 ## 製作期間  
 3か月
 
-## メンバー（役割）  
-* 金城 夏輝（プログラマ）  
-* 藤井 大将（プログラマ）  
-* 大城 誠也 (プログラマ） 
