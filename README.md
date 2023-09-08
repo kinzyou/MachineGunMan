@@ -2,7 +2,7 @@
 
 ## ファイル構成  
 * [Unityデータ](./machineGunMan/)   
-* [ビルドデータ](./https://drive.google.com/drive/folders/15WNPJpTWd_k7dO7EWJEe1wVMWJuA0mK8/)  
+* [ビルドデータ](./MachineGunMan/BuildData/)  
 
 ## 概要  
 
@@ -10,8 +10,8 @@
 3Dシューティングゲーム
 
 ## プラットフォーム  
-* [Androidビルドデータ](./[Executable/roborisuran_Android](https://drive.google.com/drive/folders/13JwwIKt8H0mL294ExKLVqIh-59Q59oji)/)  
-* [Windowsビルドデータ](/[Executable/roborisuran_Windows](https://drive.google.com/drive/folders/1yDc2mysAl2BVCf-24vkHChOjrX3fpXra)https://drive.google.com/drive/folders/1yDc2mysAl2BVCf-24vkHChOjrX3fpXra/)
+* [Androidビルドデータ](./MachineGunMan/BuildData/Android)  
+* [Windowsビルドデータ](./MachineGunMan/BuildData/Windows/)
   
 ## 担当ブログラムファイル  
 * [自分の書いたコード](./machineGunMan/Assets/Natuki/Script/)
