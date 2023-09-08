@@ -2,7 +2,7 @@
 
 ## ファイル構成  
 * [Unityデータ](./machineGunMan/)   
-* [ビルドデータ](./MachineGunMan/BuildData/)  
+* [ビルドデータ](./BuildData/)  
 
 ## 概要  
 
@@ -10,8 +10,8 @@
 3Dシューティングゲーム
 
 ## プラットフォーム  
-* [Androidビルドデータ](./MachineGunMan/BuildData/Android)  
-* [Windowsビルドデータ](./MachineGunMan/BuildData/Windows/)
+* [Androidビルドデータ](./BuildData/Android)  
+* [Windowsビルドデータ](./BuildData/Windows/)
   
 ## 担当ブログラムファイル  
 * [自分の書いたコード](./machineGunMan/Assets/Natuki/Script/)
